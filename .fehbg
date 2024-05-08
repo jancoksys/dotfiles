@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg --bg-fill '/home/arch/.config/i3/NightCity2.jpg' 
